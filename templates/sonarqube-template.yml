@@ -16,7 +16,7 @@ objects:
         tags: sonarqube
       from:
         kind: DockerImage
-        name: docker.io/siamaksade/sonarqube:latest
+        name: docker.io/wasanthawwt/openshift:sonarqube
       importPolicy: {}
       name: latest
 - apiVersion: v1
